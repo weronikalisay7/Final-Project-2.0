@@ -1,0 +1,9 @@
+selenide\BannersTest.class
+selenide\RadioBtnTest.class
+selenide\OrderTestSuite.class
+selenide\MainPageTestSuite.class
+selenide\HoverBtnTest.class
+selenide\SearchTest.class
+selenide\GetOrderTest.class
+selenide\LinksTest.class
+selenide\SearchTestSuite.class
